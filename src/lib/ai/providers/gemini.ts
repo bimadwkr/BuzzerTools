@@ -1,4 +1,3 @@
-import { GoogleGenAI } from '@google/genai';
 import { GenerationParams } from '../types';
 import { buildPrompt } from '../prompt-builder';
 import { parseAIResponse } from '../response-parser';
